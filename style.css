@@ -67,6 +67,7 @@ nav{
 }
 .layer:hover{
     background: rgba(226,0,0,0.7);
+    height: 100%;
 }
 .layer h3{
     width: 100%;
